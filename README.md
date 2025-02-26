@@ -1,1 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Special Message for [Her Name]</title>
+    <style>
+      
+        body {
+            font-family: Arial, sans-serif;
+            background: url('background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            text-align: center;
+            color: white;
+            padding: 50px;
+        }
+        .message-box {
+            background-color: rgba(100, 13, 13, 0.392) ;
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+        }
+        .heart {
+            color: #ff0000;
+            font-size: 50px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="message-box">
+        <h1>To My Dearest [MAA ARU DADA]</h1>
+        <p>You are my sunshine on a rainy day, my anchor in life's stormy sea, and my comfort when I need it the most.</p>
+        <p class="heart">&hearts;</p>
+        <p>I love you more than words can say. Always and forever.</p>
+        <p>With all my love,</p>
+        <p><div Tikendr=""></div></p>
+        <img src="D:\IMG_1590.JPG" alt=" "D:\IMG_1590.JPG">
+    </div>
+</body>
+</html>
 
